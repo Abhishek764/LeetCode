@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Abhishek764/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abhishek764/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Abhishek764/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Abhishek764/LeetCode/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Abhishek764/LeetCode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Abhishek764/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhishek764/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Abhishek764/LeetCode/tree/master/0055-jump-game) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhishek764/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Abhishek764/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Abhishek764/LeetCode/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
