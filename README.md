@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Abhishek764/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhishek764/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Abhishek764/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Abhishek764/LeetCode/tree/master/0056-merge-intervals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhishek764/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Abhishek764/LeetCode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Abhishek764/LeetCode/tree/master/0056-merge-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
