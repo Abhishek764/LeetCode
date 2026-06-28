@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Abhishek764/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Abhishek764/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhishek764/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [1824-minimum-sideway-jumps](https://github.com/Abhishek764/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 ## Stack
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishek764/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Abhishek764/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhishek764/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [1824-minimum-sideway-jumps](https://github.com/Abhishek764/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhishek764/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhishek764/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/Abhishek764/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Abhishek764/LeetCode/tree/master/0055-jump-game) |
+| [1824-minimum-sideway-jumps](https://github.com/Abhishek764/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhishek764/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
