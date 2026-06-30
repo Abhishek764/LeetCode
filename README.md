@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Abhishek764/LeetCode/tree/master/0043-multiply-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek764/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek764/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abhishek764/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Abhishek764/LeetCode/tree/master/0041-first-missing-positive) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek764/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhishek764/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Matrix
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishek764/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek764/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
