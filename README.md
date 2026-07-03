@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/Abhishek764/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0221-maximal-square](https://github.com/Abhishek764/LeetCode/tree/master/0221-maximal-square) |
 | [1824-minimum-sideway-jumps](https://github.com/Abhishek764/LeetCode/tree/master/1824-minimum-sideway-jumps) |
+| [3620-network-recovery-pathways](https://github.com/Abhishek764/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Abhishek764/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhishek764/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhishek764/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishek764/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishek764/LeetCode/tree/master/0035-search-insert-position) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhishek764/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,12 +163,19 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Abhishek764/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhishek764/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhishek764/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Abhishek764/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Abhishek764/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
