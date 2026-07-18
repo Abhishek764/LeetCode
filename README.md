@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1824-minimum-sideway-jumps](https://github.com/Abhishek764/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhishek764/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek764/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek764/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Abhishek764/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhishek764/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhishek764/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Abhishek764/LeetCode/tree/master/0066-plus-one) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek764/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhishek764/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhishek764/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhishek764/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek764/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
