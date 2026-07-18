@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/Abhishek764/LeetCode/tree/master/0221-maximal-square) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek764/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1824-minimum-sideway-jumps](https://github.com/Abhishek764/LeetCode/tree/master/1824-minimum-sideway-jumps) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek764/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhishek764/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Abhishek764/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Stack
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Abhishek764/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhishek764/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek764/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhishek764/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhishek764/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Abhishek764/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Abhishek764/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Abhishek764/LeetCode/tree/master/0066-plus-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek764/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek764/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhishek764/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhishek764/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -240,4 +243,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek764/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek764/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
