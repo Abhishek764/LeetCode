@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/Abhishek764/LeetCode/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek764/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1824-minimum-sideway-jumps](https://github.com/Abhishek764/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhishek764/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhishek764/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Abhishek764/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Abhishek764/LeetCode/tree/master/0041-first-missing-positive) |
+| [1331-rank-transform-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek764/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Abhishek764/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek764/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Abhishek764/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Abhishek764/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Abhishek764/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhishek764/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek764/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
