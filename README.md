@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/Abhishek764/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0221-maximal-square](https://github.com/Abhishek764/LeetCode/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/Abhishek764/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Abhishek764/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek764/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1824-minimum-sideway-jumps](https://github.com/Abhishek764/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek764/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/Abhishek764/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0221-maximal-square](https://github.com/Abhishek764/LeetCode/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/Abhishek764/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Abhishek764/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek764/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Abhishek764/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Abhishek764/LeetCode/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/Abhishek764/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Abhishek764/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek764/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek764/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek764/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -310,4 +313,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhishek764/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Abhishek764/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
