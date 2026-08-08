@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishek764/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishek764/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishek764/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Abhishek764/LeetCode/tree/master/0069-sqrtx) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Abhishek764/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhishek764/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhishek764/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Abhishek764/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Abhishek764/LeetCode/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Abhishek764/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhishek764/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhishek764/LeetCode/tree/master/1406-stone-game-iii) |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Abhishek764/LeetCode/tree/master/1406-stone-game-iii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Abhishek764/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
