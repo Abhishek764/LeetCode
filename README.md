@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhishek764/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhishek764/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Abhishek764/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishek764/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/Abhishek764/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Abhishek764/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abhishek764/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhishek764/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abhishek764/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhishek764/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishek764/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhishek764/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhishek764/LeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Abhishek764/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishek764/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Abhishek764/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishek764/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhishek764/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhishek764/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhishek764/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishek764/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhishek764/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
