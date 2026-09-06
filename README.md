@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Abhishek764/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Abhishek764/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Abhishek764/LeetCode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Abhishek764/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Abhishek764/LeetCode/tree/master/0125-valid-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek764/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek764/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/Abhishek764/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Abhishek764/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhishek764/LeetCode/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/Abhishek764/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Abhishek764/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhishek764/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0221-maximal-square](https://github.com/Abhishek764/LeetCode/tree/master/0221-maximal-square) |
