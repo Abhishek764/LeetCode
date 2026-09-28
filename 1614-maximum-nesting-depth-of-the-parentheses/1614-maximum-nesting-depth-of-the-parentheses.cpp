@@ -4,15 +4,12 @@ public:
         int x = 0;
         int ans = 0;
 
-        for (int i = 0; i < s.length(); i++) {
-            if (s[i] == '(') {
+        for (char c : s) {
+            if (c == '(') {
                 x++;
-
-                if (x > ans) {
-                    ans = x;
-                }
+                ans = max(ans, x);
             }
-            else if (s[i] == ')') {
+            else if (c == ')') {
                 x--;
             }
         }
