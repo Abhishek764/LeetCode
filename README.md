@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Abhishek764/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhishek764/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0221-maximal-square](https://github.com/Abhishek764/LeetCode/tree/master/0221-maximal-square) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishek764/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Abhishek764/LeetCode/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Abhishek764/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Abhishek764/LeetCode/tree/master/0877-stone-game) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Abhishek764/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abhishek764/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Abhishek764/LeetCode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishek764/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhishek764/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek764/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Abhishek764/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Abhishek764/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishek764/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishek764/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhishek764/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhishek764/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhishek764/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Abhishek764/LeetCode/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishek764/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Abhishek764/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhishek764/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhishek764/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -564,8 +568,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhishek764/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Abhishek764/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Abhishek764/LeetCode/tree/master/0278-first-bad-version) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhishek764/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
