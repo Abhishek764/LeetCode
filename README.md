@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Abhishek764/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Abhishek764/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Abhishek764/LeetCode/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek764/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek764/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/Abhishek764/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Abhishek764/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhishek764/LeetCode/tree/master/0047-permutations-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek764/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhishek764/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek764/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek764/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
