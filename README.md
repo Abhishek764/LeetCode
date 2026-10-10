@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/Abhishek764/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhishek764/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Abhishek764/LeetCode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek764/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishek764/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek764/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhishek764/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0301-remove-invalid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek764/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek764/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek764/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhishek764/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhishek764/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek764/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Abhishek764/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Linked List
