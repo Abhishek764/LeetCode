@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Abhishek764/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhishek764/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek764/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Abhishek764/LeetCode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Abhishek764/LeetCode/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek764/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0413-arithmetic-slices](https://github.com/Abhishek764/LeetCode/tree/master/0413-arithmetic-slices) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Abhishek764/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhishek764/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Abhishek764/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Abhishek764/LeetCode/tree/master/0217-contains-duplicate) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhishek764/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek764/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhishek764/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Abhishek764/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Abhishek764/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Abhishek764/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Abhishek764/LeetCode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/Abhishek764/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek764/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1331-rank-transform-of-an-array) |
