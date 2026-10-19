@@ -741,4 +741,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhishek764/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Database
+|  |
+| ------- |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Abhishek764/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
