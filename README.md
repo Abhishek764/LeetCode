@@ -744,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Abhishek764/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [1070-product-sales-analysis-iii](https://github.com/Abhishek764/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Abhishek764/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
