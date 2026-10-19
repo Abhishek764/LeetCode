@@ -744,5 +744,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [1070-product-sales-analysis-iii](https://github.com/Abhishek764/LeetCode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Abhishek764/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
