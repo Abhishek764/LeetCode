@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0896-monotonic-array](https://github.com/Abhishek764/LeetCode/tree/master/0896-monotonic-array) |
 | [1140-stone-game-ii](https://github.com/Abhishek764/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhishek764/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek764/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Abhishek764/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhishek764/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Abhishek764/LeetCode/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek764/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhishek764/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhishek764/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Abhishek764/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/Abhishek764/LeetCode/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/Abhishek764/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhishek764/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek764/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/Abhishek764/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Abhishek764/LeetCode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhishek764/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek764/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhishek764/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
