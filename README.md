@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhishek764/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Abhishek764/LeetCode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Abhishek764/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Abhishek764/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhishek764/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abhishek764/LeetCode/tree/master/0069-sqrtx) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Abhishek764/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Abhishek764/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek764/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Abhishek764/LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhishek764/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
