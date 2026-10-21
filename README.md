@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/Abhishek764/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhishek764/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhishek764/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhishek764/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Abhishek764/LeetCode/tree/master/1563-stone-game-v) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1096-brace-expansion-ii](https://github.com/Abhishek764/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhishek764/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhishek764/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhishek764/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhishek764/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
