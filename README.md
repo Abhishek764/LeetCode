@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/Abhishek764/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek764/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Abhishek764/LeetCode/tree/master/2029-stone-game-ix) |
+| [2485-find-the-pivot-integer](https://github.com/Abhishek764/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhishek764/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhishek764/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek764/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abhishek764/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek764/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Abhishek764/LeetCode/tree/master/1872-stone-game-viii) |
+| [2485-find-the-pivot-integer](https://github.com/Abhishek764/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhishek764/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Abhishek764/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhishek764/LeetCode/tree/master/3904-smallest-stable-index-ii) |
