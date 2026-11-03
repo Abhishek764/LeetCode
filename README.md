@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/Abhishek764/LeetCode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/Abhishek764/LeetCode/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Abhishek764/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Abhishek764/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek764/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Abhishek764/LeetCode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Abhishek764/LeetCode/tree/master/0221-maximal-square) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Abhishek764/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishek764/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Abhishek764/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Abhishek764/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Abhishek764/LeetCode/tree/master/0221-maximal-square) |
 | [0835-image-overlap](https://github.com/Abhishek764/LeetCode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek764/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0130-surrounded-regions](https://github.com/Abhishek764/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Abhishek764/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Abhishek764/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek764/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek764/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Abhishek764/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Abhishek764/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek764/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -692,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Abhishek764/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Abhishek764/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Abhishek764/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek764/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
