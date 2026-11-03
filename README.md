@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0119-pascals-triangle-ii](https://github.com/Abhishek764/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Abhishek764/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/Abhishek764/LeetCode/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/Abhishek764/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0413-arithmetic-slices](https://github.com/Abhishek764/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Abhishek764/LeetCode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Abhishek764/LeetCode/tree/master/0518-coin-change-ii) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Abhishek764/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Abhishek764/LeetCode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Abhishek764/LeetCode/tree/master/0202-happy-number) |
+| [0233-number-of-digit-one](https://github.com/Abhishek764/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Abhishek764/LeetCode/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/Abhishek764/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek764/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/Abhishek764/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Abhishek764/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Abhishek764/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/Abhishek764/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek764/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Abhishek764/LeetCode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhishek764/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
