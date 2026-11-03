@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/Abhishek764/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhishek764/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Abhishek764/LeetCode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Abhishek764/LeetCode/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/Abhishek764/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek764/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek764/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
