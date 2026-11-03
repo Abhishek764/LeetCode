@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhishek764/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek764/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Abhishek764/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek764/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishek764/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1824-minimum-sideway-jumps](https://github.com/Abhishek764/LeetCode/tree/master/1824-minimum-sideway-jumps) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhishek764/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek764/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek764/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhishek764/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/Abhishek764/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek764/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek764/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Abhishek764/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhishek764/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
