@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/Abhishek764/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Abhishek764/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhishek764/LeetCode/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/Abhishek764/LeetCode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Abhishek764/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek764/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Abhishek764/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abhishek764/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhishek764/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Abhishek764/LeetCode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Abhishek764/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Abhishek764/LeetCode/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/Abhishek764/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Abhishek764/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Abhishek764/LeetCode/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek764/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Abhishek764/LeetCode/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Abhishek764/LeetCode/tree/master/1386-cinema-seat-allocation) |
