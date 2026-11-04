@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhishek764/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhishek764/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abhishek764/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Abhishek764/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhishek764/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek764/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Abhishek764/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek764/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Abhishek764/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Abhishek764/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishek764/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Abhishek764/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Abhishek764/LeetCode/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek764/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Abhishek764/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Abhishek764/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhishek764/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek764/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek764/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Abhishek764/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3310-remove-methods-from-project](https://github.com/Abhishek764/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhishek764/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek764/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
