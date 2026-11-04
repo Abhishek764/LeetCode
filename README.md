@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhishek764/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Abhishek764/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Abhishek764/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Abhishek764/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Abhishek764/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Abhishek764/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/Abhishek764/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Abhishek764/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhishek764/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Abhishek764/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Abhishek764/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhishek764/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Abhishek764/LeetCode/tree/master/0055-jump-game) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhishek764/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Abhishek764/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Abhishek764/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Abhishek764/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishek764/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhishek764/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek764/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Abhishek764/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Abhishek764/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Abhishek764/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Abhishek764/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Abhishek764/LeetCode/tree/master/0147-insertion-sort-list) |
