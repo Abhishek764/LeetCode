@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Abhishek764/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Abhishek764/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Abhishek764/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Abhishek764/LeetCode/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/Abhishek764/LeetCode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhishek764/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Abhishek764/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abhishek764/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhishek764/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Abhishek764/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishek764/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Abhishek764/LeetCode/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhishek764/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
