@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishek764/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhishek764/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek764/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishek764/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhishek764/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
 |  |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/Abhishek764/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek764/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek764/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
