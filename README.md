@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Abhishek764/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishek764/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/Abhishek764/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhishek764/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek764/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhishek764/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Abhishek764/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhishek764/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek764/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhishek764/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhishek764/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek764/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhishek764/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Abhishek764/LeetCode/tree/master/0645-set-mismatch) |
