@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhishek764/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek764/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek764/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Abhishek764/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/Abhishek764/LeetCode/tree/master/1406-stone-game-iii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/Abhishek764/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Abhishek764/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek764/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek764/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhishek764/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek764/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek764/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/Abhishek764/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Abhishek764/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Abhishek764/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek764/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Abhishek764/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhishek764/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhishek764/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0976-largest-perimeter-triangle](https://github.com/Abhishek764/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek764/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhishek764/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhishek764/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhishek764/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
