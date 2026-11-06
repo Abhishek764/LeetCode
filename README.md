@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Abhishek764/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Abhishek764/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhishek764/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek764/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek764/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Abhishek764/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek764/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Abhishek764/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Abhishek764/LeetCode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Abhishek764/LeetCode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek764/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Abhishek764/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Abhishek764/LeetCode/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Abhishek764/LeetCode/tree/master/0198-house-robber) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/Abhishek764/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhishek764/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Abhishek764/LeetCode/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek764/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Abhishek764/LeetCode/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/Abhishek764/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/Abhishek764/LeetCode/tree/master/0263-ugly-number) |
