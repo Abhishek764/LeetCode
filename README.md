@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek764/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abhishek764/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Abhishek764/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhishek764/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Abhishek764/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/Abhishek764/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/Abhishek764/LeetCode/tree/master/1406-stone-game-iii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Abhishek764/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Abhishek764/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhishek764/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1041-robot-bounded-in-circle](https://github.com/Abhishek764/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1260-shift-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhishek764/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Abhishek764/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek764/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhishek764/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
