@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1232-check-if-it-is-a-straight-line](https://github.com/Abhishek764/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek764/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Abhishek764/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhishek764/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek764/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/Abhishek764/LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek764/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Abhishek764/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhishek764/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhishek764/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/Abhishek764/LeetCode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek764/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek764/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Abhishek764/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhishek764/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -733,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Abhishek764/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhishek764/LeetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek764/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Abhishek764/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhishek764/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -792,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/Abhishek764/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek764/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Abhishek764/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Abhishek764/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Abhishek764/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -889,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhishek764/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/Abhishek764/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek764/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2029-stone-game-ix](https://github.com/Abhishek764/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhishek764/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
