@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhishek764/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhishek764/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhishek764/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhishek764/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek764/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Abhishek764/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abhishek764/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhishek764/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhishek764/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhishek764/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Abhishek764/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhishek764/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhishek764/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhishek764/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhishek764/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Abhishek764/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhishek764/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1093,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhishek764/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Abhishek764/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Trie
 |  |
