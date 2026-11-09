@@ -9,6 +9,8 @@ private:
     // Move elements only when the output stack is empty.
     void transfer() {
 
+        // Transfer only when there are no elements
+        // available in the output stack.
         if (outStack.empty()) {
 
             // Reverse the order of elements.
@@ -24,15 +26,18 @@ private:
     }
 
 public:
+    // Constructor.
     MyQueue() {
     }
 
+    // Insert an element into the queue.
     void push(int x) {
 
         // Add the new element to the input stack.
         inStack.push(x);
     }
 
+    // Remove and return the front element.
     int pop() {
 
         // Make sure the oldest element is on top.
@@ -45,6 +50,7 @@ public:
         return front;
     }
 
+    // Return the front element without removing it.
     int peek() {
 
         // Make sure the oldest element is on top.
@@ -54,6 +60,7 @@ public:
         return outStack.top();
     }
 
+    // Check whether the queue is empty.
     bool empty() {
 
         // The queue is empty only if both stacks are empty.
