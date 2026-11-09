@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhishek764/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhishek764/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek764/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Abhishek764/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Array
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhishek764/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek764/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Abhishek764/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek764/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhishek764/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhishek764/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhishek764/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhishek764/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Abhishek764/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Abhishek764/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek764/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek764/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhishek764/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
@@ -1093,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhishek764/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek764/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
