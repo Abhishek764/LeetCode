@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/Abhishek764/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhishek764/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek764/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhishek764/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek764/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Abhishek764/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Abhishek764/LeetCode/tree/master/0636-exclusive-time-of-functions) |
@@ -1078,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhishek764/LeetCode/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhishek764/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abhishek764/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Abhishek764/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek764/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhishek764/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
