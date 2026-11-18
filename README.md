@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Abhishek764/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Abhishek764/LeetCode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Abhishek764/LeetCode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Abhishek764/LeetCode/tree/master/0932-beautiful-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Abhishek764/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/Abhishek764/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek764/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0728-self-dividing-numbers](https://github.com/Abhishek764/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Abhishek764/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Abhishek764/LeetCode/tree/master/0877-stone-game) |
+| [0932-beautiful-array](https://github.com/Abhishek764/LeetCode/tree/master/0932-beautiful-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Abhishek764/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Abhishek764/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1041-robot-bounded-in-circle](https://github.com/Abhishek764/LeetCode/tree/master/1041-robot-bounded-in-circle) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Abhishek764/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhishek764/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/Abhishek764/LeetCode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Abhishek764/LeetCode/tree/master/0932-beautiful-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Abhishek764/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Abhishek764/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
