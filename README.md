@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/Abhishek764/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Abhishek764/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhishek764/LeetCode/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/Abhishek764/LeetCode/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Abhishek764/LeetCode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Abhishek764/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0301-remove-invalid-parentheses) |
