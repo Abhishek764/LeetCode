@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek764/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek764/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Abhishek764/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Abhishek764/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Abhishek764/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Abhishek764/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Abhishek764/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Abhishek764/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Abhishek764/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Abhishek764/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Abhishek764/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abhishek764/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abhishek764/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishek764/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek764/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhishek764/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek764/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Abhishek764/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Abhishek764/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhishek764/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Abhishek764/LeetCode/tree/master/0413-arithmetic-slices) |
