@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/Abhishek764/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek764/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhishek764/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Abhishek764/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abhishek764/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhishek764/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhishek764/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhishek764/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Abhishek764/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhishek764/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Abhishek764/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhishek764/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhishek764/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/Abhishek764/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Abhishek764/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Abhishek764/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Abhishek764/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1157,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/Abhishek764/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Abhishek764/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Abhishek764/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Abhishek764/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -1164,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/Abhishek764/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Abhishek764/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Abhishek764/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Abhishek764/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -1238,13 +1243,19 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Abhishek764/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Abhishek764/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Abhishek764/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Abhishek764/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Abhishek764/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Abhishek764/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Manacher
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Abhishek764/LeetCode/tree/master/0214-shortest-palindrome) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Abhishek764/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
