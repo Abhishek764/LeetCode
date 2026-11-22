@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0301-remove-invalid-parentheses](https://github.com/Abhishek764/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Abhishek764/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Abhishek764/LeetCode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/Abhishek764/LeetCode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhishek764/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek764/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhishek764/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhishek764/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek764/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek764/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Abhishek764/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Abhishek764/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Abhishek764/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek764/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/Abhishek764/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/Abhishek764/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek764/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Abhishek764/LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Abhishek764/LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Abhishek764/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhishek764/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
