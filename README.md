@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek764/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhishek764/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhishek764/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/Abhishek764/LeetCode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek764/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhishek764/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Abhishek764/LeetCode/tree/master/0645-set-mismatch) |
@@ -934,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/Abhishek764/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek764/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Abhishek764/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/Abhishek764/LeetCode/tree/master/0460-lfu-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Abhishek764/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -1204,11 +1206,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/Abhishek764/LeetCode/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek764/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Abhishek764/LeetCode/tree/master/0460-lfu-cache) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Abhishek764/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhishek764/LeetCode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Abhishek764/LeetCode/tree/master/0460-lfu-cache) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
