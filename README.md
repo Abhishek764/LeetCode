@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3886-sum-of-sortable-integers](https://github.com/Abhishek764/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Abhishek764/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhishek764/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek764/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Abhishek764/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3620-network-recovery-pathways](https://github.com/Abhishek764/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Abhishek764/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Abhishek764/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek764/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhishek764/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhishek764/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhishek764/LeetCode/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek764/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -1266,12 +1269,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/Abhishek764/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Abhishek764/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Abhishek764/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek764/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Abhishek764/LeetCode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Abhishek764/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Abhishek764/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek764/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -1280,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Abhishek764/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3934-smallest-unique-subarray](https://github.com/Abhishek764/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Data Stream
 |  |
 | ------- |
