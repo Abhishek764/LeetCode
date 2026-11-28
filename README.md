@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0896-monotonic-array](https://github.com/Abhishek764/LeetCode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Abhishek764/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Abhishek764/LeetCode/tree/master/0932-beautiful-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Abhishek764/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0976-largest-perimeter-triangle](https://github.com/Abhishek764/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/Abhishek764/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek764/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Abhishek764/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Abhishek764/LeetCode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Abhishek764/LeetCode/tree/master/0645-set-mismatch) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Abhishek764/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Abhishek764/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/Abhishek764/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhishek764/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0836-rectangle-overlap](https://github.com/Abhishek764/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Abhishek764/LeetCode/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Abhishek764/LeetCode/tree/master/0932-beautiful-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Abhishek764/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0976-largest-perimeter-triangle](https://github.com/Abhishek764/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Abhishek764/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1041-robot-bounded-in-circle](https://github.com/Abhishek764/LeetCode/tree/master/1041-robot-bounded-in-circle) |
@@ -853,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Abhishek764/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Abhishek764/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Abhishek764/LeetCode/tree/master/0200-number-of-islands) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Abhishek764/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1254-number-of-closed-islands](https://github.com/Abhishek764/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Abhishek764/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek764/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1009,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Abhishek764/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek764/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhishek764/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhishek764/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1299,4 +1304,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Abhishek764/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Prime Factorization
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Abhishek764/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
