@@ -1,45 +1,37 @@
 class Solution {
 public:
     long long maximumSaleItems(vector<vector<int>>& items, int budget) {
-        int n = items.size();
+        const int n = items.size();
         vector<int> freq(n + 1, 0);
-        int min_price = 2e9;
+        int mn = INT_MAX;
+        for (auto& it : items) { ++freq[it[0]]; if (it[1] < mn) mn = it[1]; }
 
-        for (const auto& item : items) {
-            freq[item[0]]++;
-            min_price = min(min_price, item[1]);
-        }
-
-        vector<int> div_count(n + 1, 0);
+        // cnt[f] = number of OTHER items whose factor is a multiple of f (harmonic sieve)
+        vector<int> cnt(n + 1, 0);
         for (int f = 1; f <= n; ++f) {
-            if (freq[f] == 0) continue;
-            for (int m = f; m <= n; m += f) {
-                div_count[f] += freq[m];
-            }
+            if (!freq[f]) continue;
+            int s = 0;
+            for (int m = f; m <= n; m += f) s += freq[m];
+            cnt[f] = s - 1;
         }
 
-        vector<pair<int, int>> sorted_items;
-        sorted_items.reserve(n);
-        for (const auto& item : items) {
-            sorted_items.push_back({item[1], div_count[item[0]] - 1});
+        // Keep only useful candidates, packed as (price << 17 | gain) for a fast 64-bit sort
+        const long long lim = 2LL * mn;
+        vector<unsigned long long> c; c.reserve(n);
+        for (auto& it : items) {
+            int g = cnt[it[0]];
+            if (g > 0 && it[1] < lim) c.push_back(((unsigned long long)it[1] << 17) | g);
         }
-        sort(sorted_items.begin(), sorted_items.end());
+        sort(c.begin(), c.end());
 
-        long long rem = budget;
-        long long ans = 0;
-
-        for (const auto& [price, gain] : sorted_items) {
-            if (price >= 2LL * min_price) break;
-            if (gain <= 0) continue;
-
-            long long can_buy = min((long long)gain, rem / price);
-            ans += can_buy * 2;
-            rem -= can_buy * price;
-
-            if (can_buy < gain) break;
+        long long rem = budget, ans = 0;
+        for (unsigned long long k : c) {
+            long long p = k >> 17, g = k & 131071;
+            long long b = min(g, rem / p);
+            ans += 2 * b;
+            rem -= b * p;
+            if (b < g) break;          // ran out of money; every later item costs at least as much
         }
-
-        ans += rem / min_price;
-        return ans;
+        return ans + rem / mn;         // spend what's left on the cheapest item
     }
 };
