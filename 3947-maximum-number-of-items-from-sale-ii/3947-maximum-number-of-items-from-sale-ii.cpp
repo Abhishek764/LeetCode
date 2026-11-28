@@ -1,57 +1,45 @@
-
 class Solution {
 public:
-    int maximumSaleItems(vector<vector<int>>& items, int budget) {
+    long long maximumSaleItems(vector<vector<int>>& items, int budget) {
         int n = items.size();
-        int mx = 0, minPrice = INT_MAX;
-
         vector<int> freq(n + 1, 0);
+        int min_price = 2e9;
 
-        for (auto& item : items) {
-            int f = item[0], p = item[1];
-            freq[f]++;
-            mx = max(mx, f);
-            minPrice = min(minPrice, p);
+        for (const auto& item : items) {
+            freq[item[0]]++;
+            min_price = min(min_price, item[1]);
         }
 
-        // Count all divisible item types.
-        vector<int> gain(mx + 1, 0);
-
-        for (int f = 1; f <= mx; f++) {
-            for (int j = f; j <= mx; j += f) {
-                gain[f] += freq[j];
+        vector<int> div_count(n + 1, 0);
+        for (int f = 1; f <= n; ++f) {
+            if (freq[f] == 0) continue;
+            for (int m = f; m <= n; m += f) {
+                div_count[f] += freq[m];
             }
-            gain[f]--;
         }
 
-        // Cheapest items first.
-        sort(items.begin(), items.end(),
-             [](const auto& a, const auto& b) {
-                 return a[1] < b[1];
-             });
+        vector<pair<int, int>> sorted_items;
+        sorted_items.reserve(n);
+        for (const auto& item : items) {
+            sorted_items.push_back({item[1], div_count[item[0]] - 1});
+        }
+        sort(sorted_items.begin(), sorted_items.end());
 
+        long long rem = budget;
         long long ans = 0;
-        long long remaining = budget;
 
-        // Buy valuable copies (each gives 2 items).
-        for (auto& item : items) {
-            long long f = item[0];
-            long long p = item[1];
+        for (const auto& [price, gain] : sorted_items) {
+            if (price >= 2LL * min_price) break;
+            if (gain <= 0) continue;
 
-            if (p >= 2LL * minPrice) break;
+            long long can_buy = min((long long)gain, rem / price);
+            ans += can_buy * 2;
+            rem -= can_buy * price;
 
-            long long cnt = min(
-                (long long)gain[f],
-                remaining / p
-            );
-
-            ans += 2 * cnt;
-            remaining -= cnt * p;
+            if (can_buy < gain) break;
         }
 
-        // Spend the remaining budget on the cheapest item.
-        ans += remaining / minPrice;
-
-        return (int)ans;
+        ans += rem / min_price;
+        return ans;
     }
 };
